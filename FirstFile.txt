@@ -1,2 +1,3 @@
 First txt file 
 To know about repository
+Extra things we came to know
